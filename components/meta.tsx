@@ -4,8 +4,8 @@ import { useRouter } from "next/router"
 export default function Meta() {
     const router = useRouter()
     const meta = {
-        title: `${router.pathname === "/" ? "" : ` ${router.pathname} |`} Conifer`,
-        description: "A personal website generated from Conifer!",
+        title: `${router.pathname === "/" ? "" : ` ${router.pathname} |`} Sohum`,
+        description: "Sohum's personal website",
         image: "http://localhost:3000/hero.png",
         type: "website"
     }

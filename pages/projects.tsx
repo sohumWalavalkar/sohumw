@@ -28,21 +28,21 @@ const Projects: NextPage = () => {
             <Meta/>
             <Header/>
             <div className="place-items-center justify-center grid mt-32 mb-16">
-                <h1 className="text-4xl font-semibold">Projects</h1>
+                <h1 className="text-4xl font-semibold">Easter egg 🥚</h1>
                 <div className="mt-24 max-w-xl px-8">
                     <Card
-                        name="Project one"
-                        description="This is the first of three projects!"
+                        name="Ready 🔴"
+                        description="Coming soon..."
                         link="#"
                     />
                     <Card
-                        name="Project two"
-                        description="This is the second of three projects!"
+                        name="Set 🟡"
+                        description="Coming soon..."
                         link="#"
                     />
                     <Card
-                        name="Project three"
-                        description="This is the final project!"
+                        name="Go 🟢"
+                        description="Coming soon..."
                         link="#"
                     />
                 </div>
